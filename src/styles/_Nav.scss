@@ -1,0 +1,18 @@
+nav{
+    width: 20rem;
+    min-height: 10vh;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    border: none;
+    outline: none;
+    background: linear-gradient(13deg, #f9d4ff 14%,#c7ceff 64%);
+    color: #333;
+    padding: 0.5rem;
+    border-radius: 5px;
+    box-shadow: 0px 1px 50px rgb(156, 156, 156);
+}
+
